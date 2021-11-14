@@ -9,3 +9,7 @@ Check the video on the Gunthers channel: https://www.youtube.com/GuntherSuper
 3. Making an echo bot
 4. Sending images from the web and from a local drive
 5. Simple bot with `pyqrcode` package
+
+<b>Lesson2:</b>
+1. Reply Keyboards 
+2. Inline Keyboards, callbacks
